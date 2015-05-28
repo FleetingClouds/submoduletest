@@ -1,0 +1,3 @@
+[submodule "node-trello"]
+	path = node-trello
+	url = git@github.com:adunkman/node-trello.git
